@@ -2,7 +2,7 @@
 
 function testGeolocationAPI() {
     // use api key
-    var apiKey = 'eb42bfdeb6484d1a8511cbf604661531';
+    var apiKey = 'ENTER API KEY HERE';
   
     // API endpoint for geolocation
     var apiEndpoint = 'https://ipgeolocation.abstractapi.com/v1/?api_key=' + apiKey;
